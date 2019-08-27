@@ -1,5 +1,5 @@
-#Django Docker Template
-**Instructions:**
+# Django Docker Template
+### **Instructions:**
 1. Add required containers to docker-compose (web/db/etc).
 2. Add dependencies to requirements.txt.
 2. Run command >> ```docker-compose run web django-admin startproject **projectName**```
