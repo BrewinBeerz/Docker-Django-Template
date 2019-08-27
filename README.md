@@ -5,3 +5,6 @@
 2. Run command >> ```docker-compose run web django-admin startproject **projectName**```
 4. Launch web server http://localhost:8000
 5. Run command t command from the top level directory >> ```docker-compose up```
+
+### **Documentation:**
+https://docs.docker.com/compose/django/
